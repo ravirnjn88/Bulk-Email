@@ -1,0 +1,9 @@
+It is a Bulk Email Sender script specifically designed for my friend's need.
+In this script we are sending bulk emails to students of different university seeking information
+regarding the admission prospectus of that year.
+
+This scrip can be Modified accordingly for any one use:
+1) Add your email credential details in auth.py file from which you want to send email.
+2) Remember only gmail is supported and you cannot send more than 1500 emails per day.
+3) Enable access to less secure apps in gmail settings. (https://support.google.com/accounts/answer/6010255?hl=en)
+4) Modify sender, from_add, subj, message_text variable in the main script.
